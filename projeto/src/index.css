@@ -1,0 +1,29 @@
+.cronometro {
+    width: 450px;
+    height: 600px;
+    background-color: black;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+   display: flex;
+    color: white;
+    font-family: 'Anton', sans-serif;
+    font-size: 100px;
+    justify-content: center;
+}
+
+.control {
+    display: flex;
+    justify-content: center; 
+}
+
+button {
+    display: flex;
+    margin: 5px;
+    width: 90px;
+    height: 40px;
+    align-items: center;
+}
